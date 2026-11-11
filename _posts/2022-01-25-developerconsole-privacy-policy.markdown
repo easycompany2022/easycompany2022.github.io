@@ -26,8 +26,13 @@ Link to the privacy policy of third-party service providers used by the app
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [Firebase Cloud Messaging and Firebase In-App Messaging](https://firebase.google.com/support/privacy/): use a Firebase installation ID to deliver notices about the app.
 *   [AppLovin](https://www.applovin.com/privacy/)
 *   [AdColony](https://www.adcolony.com/privacy-policy/)
+
+**Notifications**
+
+On Android 13 and later, the app asks for the notification permission, which is used only to show notices about the app. It is optional, and the app works the same if you decline. You can change it in the system settings at any time.
 
 **Log Data**
 
@@ -66,7 +71,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-01-25
+This policy is effective as of 2026-11-11
 
 **Contact Us**
 
