@@ -27,8 +27,6 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Firebase Cloud Messaging and Firebase In-App Messaging](https://firebase.google.com/support/privacy/): use a Firebase installation ID to deliver notices about the app.
-*   [AppLovin](https://www.applovin.com/privacy/)
-*   [AdColony](https://www.adcolony.com/privacy-policy/)
 
 **Notifications**
 

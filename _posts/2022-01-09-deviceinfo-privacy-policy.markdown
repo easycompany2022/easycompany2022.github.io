@@ -18,6 +18,10 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
+*   **Device information is shown only on your device.** The app reads information about your device (such as hardware, OS, battery, display, sensors, storage and network) to show it to you. This information is never sent off your device by the app.
+*   **Camera permission.** The app uses the camera permission only to read and show your camera's specifications (such as resolution). It does not take, record or store photos or videos.
+*   **Nearby devices (Bluetooth) permission.** The app uses the Bluetooth permissions only to show Bluetooth information on your device. It does not use them to determine your location.
+
 The app does use third-party services that may collect information used to identify you.
 
 Link to the privacy policy of third-party service providers used by the app
