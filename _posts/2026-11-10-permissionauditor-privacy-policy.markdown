@@ -21,7 +21,7 @@ Permission Auditor shows which permissions the apps installed on your device hav
 *   **Installed apps and their permissions are analyzed only on your device.** To do this, the app reads the list of installed apps, the permissions each app requests, whether those permissions are currently granted, and which special access (such as accessibility, notification access or device administrator) each app declares or has enabled.
 *   **This information is never sent off your device.** It is not uploaded to me, to Firebase, to advertising partners, or to any other server, and it is not used for advertising or analytics.
 *   **Use of the QUERY_ALL_PACKAGES permission.** The app uses the `QUERY_ALL_PACKAGES` permission only to see every app installed on your device, which is the core function of the app (an audit of the permissions requested by installed apps). Without it, Android would hide most installed apps from the analysis.
-*   The app does not ask you for any additional permissions, and it does not collect your name, email address, contacts, location, or files.
+*   Apart from the notification permission on Android 13 and later (used only to show notices about the app, and optional), the app does not ask you for any additional permissions, and it does not collect your name, email address, contacts, location, or files.
 *   Your settings (for example, dark mode) are stored only on your device.
 
 The app does use third-party services that may collect information used to identify you. These services are used for advertising, usage analytics and crash reporting, and they do not receive the list of your installed apps or their permissions.
