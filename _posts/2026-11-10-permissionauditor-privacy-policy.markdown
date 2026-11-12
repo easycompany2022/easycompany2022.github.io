@@ -30,6 +30,7 @@ The app does use third-party services that may collect information used to ident
 *   **Google Analytics for Firebase:** collects app usage events (such as app opens, screens viewed and session length), app instance ID, and device information, to understand how the app is used.
 *   **Firebase Crashlytics:** collects crash logs and diagnostic data (such as the stack trace, device model, OS version and app state at the time of the crash), to fix errors.
 *   **Firebase Cloud Messaging and Firebase In-App Messaging:** use a Firebase installation ID to deliver notices about the app.
+*   **Firebase Cloud Firestore, Cloud Storage and App Check:** load the list of my other apps (names, descriptions and icons). App Check uses Google Play Integrity to check that these requests come from a genuine copy of the app.
 
 Link to the privacy policy of third-party service providers used by the app
 
@@ -76,7 +77,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2026-11-10
+This policy is effective as of 2026-11-12
 
 **Contact Us**
 

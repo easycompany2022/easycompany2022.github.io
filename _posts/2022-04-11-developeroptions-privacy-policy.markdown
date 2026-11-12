@@ -27,6 +27,7 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Firebase Cloud Messaging and Firebase In-App Messaging](https://firebase.google.com/support/privacy/): use a Firebase installation ID to deliver notices about the app.
+*   [Firebase Cloud Firestore, Cloud Storage and App Check](https://firebase.google.com/support/privacy/): load the list of my other apps (names, descriptions and icons). App Check uses Google Play Integrity to check that these requests come from a genuine copy of the app.
 *   [AppLovin](https://www.applovin.com/privacy/)
 
 **Notifications**
@@ -70,7 +71,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2026-11-11
+This policy is effective as of 2026-11-12
 
 **Contact Us**
 
