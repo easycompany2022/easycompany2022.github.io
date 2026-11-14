@@ -33,6 +33,8 @@ The app does use third-party services that may collect information used to ident
 *   **Firebase Crashlytics:** collects crash logs and diagnostic data (such as the error type, stack trace, device model, OS version and app state at the time of the crash), to fix errors. Error reports do not include the name or package name of the app you inspect.
 *   **Firebase Cloud Messaging and Firebase In-App Messaging:** use a Firebase installation ID to deliver notices about the app.
 *   **Firebase Cloud Firestore, Cloud Storage and App Check:** load the list of my other apps (names, descriptions and icons). App Check uses Google Play Integrity to check that these requests come from a genuine copy of the app.
+*   **Firebase Remote Config and A/B Testing:** use a Firebase installation ID to load app settings (for example, how ads are laid out) and to compare different versions of those settings across groups of users.
+*   **Google Play Age Signals:** the app asks Google Play whether your Google account is supervised (for example, a child's account managed by a parent). If it is, the app asks AdMob to treat its ad requests as directed to children and to show only ads suitable for all ages. The app does not store this information or send it anywhere else.
 
 Link to the privacy policy of third-party service providers used by the app
 
@@ -73,13 +75,13 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 **Children’s Privacy**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age, and I do not keep user data on my own servers. If I discover that information about a child under 13 has been collected through the services described above, I will take the necessary steps to have it deleted. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
 
 **Changes to This Privacy Policy**
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2026-11-12
+This policy is effective as of 2026-11-14
 
 **Contact Us**
 
