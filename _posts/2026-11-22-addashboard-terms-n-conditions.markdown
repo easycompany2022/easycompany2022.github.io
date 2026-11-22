@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[AdDashboard] Terms & Conditions"
-date:   2026-11-23 12:00:00 +0900
+date:   2026-11-22 12:00:00 +0900
 categories: privacy policy
 ---
 **Terms & Conditions**
@@ -41,7 +41,7 @@ At some point, we may wish to update the app. The app is currently available on 
 
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-11-23
+These terms and conditions are effective as of 2026-11-22
 
 **Contact Us**
 

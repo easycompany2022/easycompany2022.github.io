@@ -13,6 +13,6 @@ permalink: /addashboard/
 
 Ad Dashboard is not affiliated with, endorsed by, or sponsored by Google. AdMob is a trademark of Google LLC.
 
-*   [Privacy Policy]({% post_url 2026-11-23-addashboard-privacy-policy %})
-*   [Terms & Conditions]({% post_url 2026-11-23-addashboard-terms-n-conditions %})
+*   [Privacy Policy]({% post_url 2026-11-22-addashboard-privacy-policy %})
+*   [Terms & Conditions]({% post_url 2026-11-22-addashboard-terms-n-conditions %})
 *   Contact: easycompanay@gmail.com
