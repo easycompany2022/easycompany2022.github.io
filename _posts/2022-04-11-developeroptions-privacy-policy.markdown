@@ -30,7 +30,6 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Firebase Cloud Firestore, Cloud Storage and App Check](https://firebase.google.com/support/privacy/): load the list of my other apps (names, descriptions and icons). App Check uses Google Play Integrity to check that these requests come from a genuine copy of the app.
 *   [Firebase Remote Config and A/B Testing](https://firebase.google.com/support/privacy/): use a Firebase installation ID to load app settings (for example, how ads are laid out) and to compare different versions of those settings across groups of users.
 *   [Google Play Age Signals](https://developer.android.com/google/play/age-signals): the app asks Google Play whether your Google account is supervised (for example, a child's account managed by a parent). If it is, the app asks AdMob to treat its ad requests as directed to children and to show only ads suitable for all ages. The app does not store this information or send it anywhere else.
-*   [AppLovin](https://www.applovin.com/privacy/)
 
 **Notifications**
 
@@ -73,7 +72,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2026-11-14
+This policy is effective as of 2026-11-26
 
 **Contact Us**
 

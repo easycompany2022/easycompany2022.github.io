@@ -26,7 +26,7 @@ Permission Auditor shows which permissions the apps installed on your device hav
 
 The app does use third-party services that may collect information used to identify you. These services are used for advertising, usage analytics and crash reporting, and they do not receive the list of your installed apps or their permissions.
 
-*   **AdMob (Google) and AppLovin (ad mediation):** may collect the advertising ID, device information (such as model and OS version), IP address and approximate location derived from it, and ad interaction data, to show and measure ads. In regions where consent is required (such as the EEA and the UK), the app asks for your consent through Google's consent form before requesting ads, and ads are not requested without it.
+*   **AdMob (Google):** may collect the advertising ID, device information (such as model and OS version), IP address and approximate location derived from it, and ad interaction data, to show and measure ads. In regions where consent is required (such as the EEA and the UK), the app asks for your consent through Google's consent form before requesting ads, and ads are not requested without it.
 *   **Google Analytics for Firebase:** collects app usage events (such as app opens, screens viewed and session length), app instance ID, and device information, to understand how the app is used.
 *   **Firebase Crashlytics:** collects crash logs and diagnostic data (such as the stack trace, device model, OS version and app state at the time of the crash), to fix errors.
 *   **Firebase Cloud Messaging and Firebase In-App Messaging:** use a Firebase installation ID to deliver notices about the app.
@@ -38,7 +38,6 @@ Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [AppLovin](https://www.applovin.com/privacy/)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
@@ -79,7 +78,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2026-11-14
+This policy is effective as of 2026-11-26
 
 **Contact Us**
 

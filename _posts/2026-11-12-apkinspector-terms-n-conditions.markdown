@@ -22,7 +22,6 @@ Link to Terms and Conditions of third-party service providers used by the app
 
 *   [Google Play Services](https://policies.google.com/terms)
 *   [AdMob](https://developers.google.com/admob/terms)
-*   [AppLovin](https://www.applovin.com/terms/)
 *   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 *   [Firebase (Cloud Messaging, In-App Messaging, Cloud Firestore, Cloud Storage, App Check, Remote Config, A/B Testing)](https://firebase.google.com/terms)
@@ -41,7 +40,7 @@ At some point, we may wish to update the app. The app is currently available on 
 
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-11-14
+These terms and conditions are effective as of 2026-11-26
 
 **Contact Us**
 
