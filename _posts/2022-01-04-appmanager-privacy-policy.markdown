@@ -18,7 +18,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Easy-Company. The information that I request will be retained on your device and is not collected by me in any way.
 
-*   **Installed apps are processed only on your device.** The app uses the `QUERY_ALL_PACKAGES` permission to show the list of apps installed on your device and their details (such as version, size and install date), which is the core function of the app. This list is never sent off your device by the app, and it is not used for advertising or analytics.
+*   **Installed apps are processed only on your device.** The app uses the `QUERY_ALL_PACKAGES` permission to show the list of apps installed on your device and their details (such as version, size and install date), which is the core function of the app. This list is never sent off your device by the app, and it is not used for advertising or analytics. If you choose to check an app in another of my apps (Permission Auditor or APK Inspector) from the app menu, the app passes only that app's package name to the other app on your device.
 *   **Uninstalling and sharing apps.** The app uses the `REQUEST_DELETE_PACKAGES` permission only to open the system uninstall screen when you choose to uninstall an app. When you choose to save or share an APK file, the app saves it on your device (on Android 10 and earlier this requires the storage permission) or passes it to the app you pick to share it with.
 
 The app does use third-party services that may collect information used to identify you.
@@ -27,7 +27,6 @@ Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [AppLovin](https://www.applovin.com/privacy/)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Firebase Cloud Messaging and Firebase In-App Messaging](https://firebase.google.com/support/privacy/): use a Firebase installation ID to deliver notices about the app.
@@ -76,7 +75,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2026-11-14
+This policy is effective as of 2026-11-27
 
 **Contact Us**
 
